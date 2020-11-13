@@ -1,3 +1,8 @@
-h1{
-  color: aqua;
-}
+div{
+  background-color: lightgreen;
+
+@media screen {
+  div{
+    background-color: pink;
+  }
+} 
