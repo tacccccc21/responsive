@@ -1,7 +1,8 @@
 div{
   background-color: lightgreen;
+}
 
-@media screen {
+@media (orientation: landscape) {
   div{
     background-color: pink;
   }
